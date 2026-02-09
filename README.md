@@ -1,5 +1,8 @@
 # Stop-watch-proj
 Certainly! Let's discuss the description of a stopwatch implemented using HTML, CSS, and JavaScript.
+0. **krish**:
+   - Hiiiiiiiiiiiiii, Helloooooo
+
 
 1. **HTML Structure**:
    - Create an HTML container to hold the stopwatch elements.
